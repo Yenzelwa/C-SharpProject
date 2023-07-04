@@ -1,0 +1,15 @@
+c:\Source\C-SharpProject\CSharpProjectConsole\bin\Debug\net7.0\CSharpProjectConsole.exe
+c:\Source\C-SharpProject\CSharpProjectConsole\bin\Debug\net7.0\CSharpProjectConsole.deps.json
+c:\Source\C-SharpProject\CSharpProjectConsole\bin\Debug\net7.0\CSharpProjectConsole.runtimeconfig.json
+c:\Source\C-SharpProject\CSharpProjectConsole\bin\Debug\net7.0\CSharpProjectConsole.dll
+c:\Source\C-SharpProject\CSharpProjectConsole\bin\Debug\net7.0\CSharpProjectConsole.pdb
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.csproj.AssemblyReference.cache
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.AssemblyInfoInputs.cache
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.AssemblyInfo.cs
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.csproj.CoreCompileInputs.cache
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.dll
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\refint\CSharpProjectConsole.dll
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.pdb
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\CSharpProjectConsole.genruntimeconfig.cache
+c:\Source\C-SharpProject\CSharpProjectConsole\obj\Debug\net7.0\ref\CSharpProjectConsole.dll
